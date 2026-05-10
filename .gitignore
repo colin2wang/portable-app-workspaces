@@ -1,0 +1,9 @@
+# Idea
+*.iml
+.idea/
+
+# Tools
+tools/PortableApps.comLauncher
+
+# Executable files
+*.exe
