@@ -1,5 +1,9 @@
 # Portable Apps Workspace
 
+[Change History](CHANGE-HISTORY.md) | [Development Guidelines](DEVELOPMENT_GUIDELINES.md) | [中文文档](README_zh.md)
+
+---
+
 ## Overview
 
 This is a development workspace for creating, testing, and debugging portable applications using the PortableApps.com format. The project provides all necessary tools and templates to convert regular Windows applications into fully portable versions that can run from USB drives, cloud storage, or any removable media without leaving traces on the host system.
@@ -403,12 +407,6 @@ Use `.gitignore` to exclude sensitive or large files.
 3. **Search online** at PortableApps.com forums
 4. **Enable debug mode** to diagnose issues
 5. **Test in a clean VM** to isolate problems
-
----
-
-## Change History
-
-See [CHANGE-HISTORY.md](CHANGE-HISTORY.md) for the complete list of changes.
 
 ---
 
