@@ -1,5 +1,6 @@
 Function CustomLaunch
-  nsExec::ExecToLog 'cmd.exe /c "taskkill /f /im QuarkCloudDrive* >NUL 2>NUL & rd/s/q "%AppData%\quark-cloud-drive" 2>NUL & rd/s/q "%LocalAppData%\quark-cloud-drive" 2>NUL & rd/s/q "%LocalAppData%\quark-cloud-drive-updater" 2>NUL & echo. > "%LocalAppData%\quark-cloud-drive-updater" 2>NUL"'
+  ; 启动前创建同名文件占位，阻止夸克自建更新目录
+  nsExec::ExecToLog 'cmd.exe /c "echo. > "%LocalAppData%\quark-cloud-drive-updater" 2>NUL"'
 FunctionEnd
 
 Function CustomClose

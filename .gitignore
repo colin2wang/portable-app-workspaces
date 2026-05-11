@@ -3,7 +3,4 @@
 .idea/
 
 # Tools
-tools/PortableApps.comLauncher
-
-# Executable files
-*.exe
+tools/PortableApps-*/

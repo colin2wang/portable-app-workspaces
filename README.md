@@ -406,6 +406,12 @@ Use `.gitignore` to exclude sensitive or large files.
 
 ---
 
+## Change History
+
+See [CHANGE-HISTORY.md](CHANGE-HISTORY.md) for the complete list of changes.
+
+---
+
 **Workspace Created:** May 2026  
 **Last Updated:** May 2026  
 **Maintainer:** Project Contributors

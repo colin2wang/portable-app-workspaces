@@ -14,13 +14,13 @@ PortableApps.com Launcher is a universal portable application launcher that enab
 
 ### Official Sources
 
-1. **PortableApps.com Development Page**
-   - URL: https://portableapps.com/development/portableapps.com_launcher
+1. **PortableApps.com Launcher**
+   - URL: https://portableapps.com/apps/development/portableapps.com_launcher
    - This is the primary source for downloading the launcher generator
 
-2. **PortableApps.com Platform**
-   - URL: https://portableapps.com/download
-   - The launcher is included with the PortableApps.com Platform installation
+2. **PortableApps.com Installer**
+   - URL: https://portableapps.com/apps/development/portableapps.com_installer
+   - The installer tool for creating portable application installers
 
 3. **GitHub Repository**
    - Check the official PortableApps.com repositories for source code and releases
@@ -192,7 +192,8 @@ The launcher includes comprehensive HTML documentation:
 ### Online Resources
 
 - **Official Website:** https://portableapps.com/
-- **Development Documentation:** https://portableapps.com/development
+- **Launcher Documentation:** https://portableapps.com/apps/development/portableapps.com_launcher
+- **Installer Documentation:** https://portableapps.com/apps/development/portableapps.com_installer
 - **Forums:** https://portableapps.com/forum
 - **Bug Tracker:** Available on GitHub repositories
 
@@ -310,7 +311,8 @@ PortableApps.com Launcher is released under an open source license. See the lice
 ## Support & Community
 
 - **Forum:** https://portableapps.com/forum
-- **Documentation:** https://portableapps.com/development
+- **Launcher Documentation:** https://portableapps.com/apps/development/portableapps.com_launcher
+- **Installer Documentation:** https://portableapps.com/apps/development/portableapps.com_installer
 - **Email:** Contact through the official website
 - **GitHub:** Submit issues and pull requests
 
